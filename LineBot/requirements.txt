@@ -1,0 +1,11 @@
+Flask==3.0.3
+line-bot-sdk==3.11.0
+requests==2.31.0
+urllib3==2.2.1
+gunicorn
+pandas==2.2.2
+tqdm==4.66.4
+packaging
+SQLAlchemy==2.0.31
+psycopg2-binary==2.9.9
+python-dotenv==1.0.1
