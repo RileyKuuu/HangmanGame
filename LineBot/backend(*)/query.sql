@@ -1,4 +1,4 @@
--- SQL query for creating view
+-- SQL query for creating view 
 
 CREATE VIEW vw_all_events AS
 SELECT
