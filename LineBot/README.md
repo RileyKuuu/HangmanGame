@@ -4,6 +4,7 @@
 The Music Event Linebot is a group project I led in an online course, designed to help users find music events efficiently. The bot allows users to search for concerts based on time, location, or keywords directly through the LINE app. By integrating multiple technologies, we provided a convenient and interactive experience for music enthusiasts.
 
 > For the key tasks that I covered, please refer to files with (*).
+
 > This project ranked in the top 3 out of 40 group projects in the course.
 ## Key Features
 -   **Concert Search**  
